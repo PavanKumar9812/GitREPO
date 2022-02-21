@@ -135,7 +135,7 @@ class L4_1
 
    p.setAccNum(r1.nextInt(10000));
    p1.setAge(23);
-   p1.setName("smitha");
+   p1.setName("Sneha");
    p.setBalance(2000);
    p.deposit(2000);
 
